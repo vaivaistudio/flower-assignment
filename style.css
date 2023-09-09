@@ -1,0 +1,76 @@
+.headar-banner{
+    background-color: #E55473;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    padding: 30px;
+
+}
+.header-text{
+    margin-left: 30px;
+}
+.header-text button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: azure;
+}
+
+.header-img img{
+    width: 300px;
+    height: 410px;
+    margin-left: 500px;
+     
+    
+}
+.cammingsoon{
+    text-align: center;
+}
+.future-flower{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+}
+.future-flower img{
+    width: 200px;
+}
+.icon-section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    margin-top: 100px;
+}
+.icon-section img{
+    width: 80px;
+}
+
+
+.meddel-Banner{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    background-color: E55473;
+}
+.meddel-text{
+    text-align: center;
+    margin-left: 100px;
+}
+.meddel-Banner img{
+    margin-left: 500px;
+    width: 300px;
+}
+.my-flower{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+
+}
+.my-flower img{
+    width: 200px;
+}
+.footar{
+    background-color: rgb(58, 56, 53);
+    text-align: center;
+    color: white;
+    padding: 20px 0 20px 0;
+}
